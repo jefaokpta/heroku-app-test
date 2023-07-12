@@ -1,0 +1,9 @@
+{
+  "name": "app teste",
+  "description": "tentar rodar varios desse independentes",
+  "repository": "https://github.com/jefaokpta/heroku-app-test",
+  "env": {
+    "NODE_ENV": "production",
+    "JEFONES": "jefao"
+  }
+}
